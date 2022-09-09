@@ -1,0 +1,38 @@
+
+/* Background color css */
+.bg-color{
+    background-color: lightblue;
+}
+
+div
+{
+    background-color: green;
+}
+
+h1{
+    color: black
+}
+.first{
+    background-color: rgba(0,128,0,0.1);
+}
+
+.second{
+    background-color: rgba(0,128,0,0.3);
+}
+
+.third{
+    background-color: rgba(0,128,0,0.6);
+}
+/* END */
+
+
+/* Background Image css  */
+
+body{
+    background-image: url("../Images/car4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 10%;
+}
+
+/* End  */
